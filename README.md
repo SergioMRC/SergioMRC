@@ -6,7 +6,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,git,react,nodejs,express,mongodb" />
   </a>
-p>
 
 # >_ Hola, I'm Sergio 👋
 
