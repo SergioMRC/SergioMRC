@@ -1,5 +1,3 @@
-# Hi there, I'm Sergio 👋
-
 <a href="https://github.com/SergioMRC">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioMRC&show_icons=true&theme=dracula&line_height=27" alt="SergioMRC's github stats"/>
 </a>
@@ -10,22 +8,52 @@
   </a>
 p>
 
-## About Me 👨‍💻
+# >_ Hola, I'm Sergio 👋
 
-I'm a passionate and driven developer-in-training 🔥, currently on an exciting journey to switch my career from construction to web development. Originally from Kyiv, Ukraine 🇺🇦, I am now based in Madrid, Spain 🇪🇸, and channeling my energy into building a new future through code. 💪
+I'm a determined and passionate developer-in-training, making a significant career change to build a new future in web development. My journey has been one of resilience—from running my own business in Kyiv to rebuilding my life in Madrid. Now, I'm channeling that same energy into mastering the MERN stack and crafting beautiful, functional web applications.
 
-- 🌱 I’m currently diving deep into the world of web development at the **[42 Madrid](https://www.42madrid.com/)** bootcamp.
-- 🎯 My immediate goal is to master **Frontend Development**: HTML, CSS, JavaScript, and React.
-- 🚀 My long-term ambition is to become a proficient **Full-Stack Developer** with the MERN stack (MongoDB, Express.js, React, Node.js).
-- ✨ I believe in the power of technology to rebuild, and I'm excited to contribute to meaningful projects.
+**I'm driven by a passion for building powerful and elegant digital experiences.**
 
-## Connect with me 🤝
+---
+
+### -> My Current Mission 👨‍💻
+
+I am on a focused mission to become a full-stack web developer. My learning is intensive and hands-on, with a clear roadmap.
+
+-   🌱 **Actively Learning:** Immersing myself in the fundamentals with **HTML, CSS, and JavaScript**.
+-   🚀 **Future Focus:** Diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js) to become a complete developer.
+-   🎯 **Ultimate Goal:** To work as a remote/freelance developer, or build my own projects as an indie developer.
+
+---
+
+### -> My Tech Toolbox 🚀
+
+Here are the tools and technologies I'm working with on my journey.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-profile" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Warp-01A4A3?style=for-the-badge&logo=warp&logoColor=white" alt="Warp Terminal" />
+  <img src="https://img.shields.io/badge/Firefox_Dev-574CDE?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox Developer Edition" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E44AD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini CLI" />
 </p>
 
-<!--
-**SergioMRC/SergioMRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+---
+
+### -> Let's Connect 🤝
+
+I'm always open to connecting with fellow developers, mentors, and collaborators. You can find me here:
+
+-   **LinkedIn:** `linkedin.com/in/kozhan`
+-   **GitHub:** `github.com/SergioMRC`
+
+<br>
+
+> ### "Rebuilding my life, one line of code at a time."
