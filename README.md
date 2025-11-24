@@ -1,6 +1,7 @@
-<a href="https://github.com/SergioMRC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioMRC&show_icons=true&theme=dracula&line_height=27" alt="SergioMRC's github stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/SergioMRC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioMRC&show_icons=true&theme=dracula&line_height=27" alt="SergioMRC's github stats"/>
+  </a>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
